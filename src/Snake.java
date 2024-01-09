@@ -19,7 +19,7 @@ public class Snake {
 
         JFrame f = new JFrame();
         f.setTitle("Snake");
-        Image img = new ImageIcon("snake.png").getImage();
+        Image img = new ImageIcon("../img/snake.png").getImage();
         f.setIconImage(img);
         f.setResizable(false);
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
