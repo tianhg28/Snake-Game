@@ -34,7 +34,3 @@ Feel free to fork the repository, make changes, and submit pull requests for imp
 
 ## License
 This project is open source and free to use for personal and educational purposes.
-
----
-
-**Note**: This README is for informational use. Ensure proper usage of any resources or dependencies involved in the project.
